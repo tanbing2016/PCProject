@@ -27,7 +27,7 @@ html,body.rotateIn{
     z-index: 1000;
     background: #fff;
     left: -20px;
-    background: url("images/topBox.png")no-repeat center #fff;
+    background: url("../images/topBox.png")no-repeat center #fff;
     cursor: pointer;
 }
 #head #topBoxList{
@@ -76,7 +76,7 @@ html,body.rotateIn{
     position: absolute;
     top: 0;
     right: 0;
-    background: url("images/topOpen.png")no-repeat;
+    background: url("../images/topOpen.png")no-repeat;
     width: 122px;
     height: 121px;
     cursor: pointer;
@@ -106,7 +106,7 @@ html,body.rotateIn{
     color: #fff;
 }
 .h,.n{
-    background: url("images/topBar.png")no-repeat;
+    background: url("../images/topBar.png")no-repeat;
     width: 11px;
     height: 11px;
     display: inline-block;
@@ -201,7 +201,7 @@ html,body.rotateIn{
 #banner #left{
     width: 45px;
     height: 80px;
-    background: url("images/left.png")no-repeat center #cf0f32;
+    background: url("../images/left.png")no-repeat center #cf0f32;
     position: absolute;
     left: 0;
     top: 50%;
@@ -210,7 +210,7 @@ html,body.rotateIn{
 #banner #right{
     width: 45px;
     height: 80px;
-    background: url("images/right.png")no-repeat center #cf0f32;
+    background: url("../images/right.png")no-repeat center #cf0f32;
     position: absolute;
     right: 0;
     top: 50%;
@@ -220,7 +220,7 @@ html,body.rotateIn{
     width: 140px;
     height: 50px;
     display: block;
-    background: url("images/look.png")no-repeat;
+    background: url("../images/look.png")no-repeat;
     position: absolute;
     top: 600px;
     left: 110px;
@@ -229,7 +229,7 @@ html,body.rotateIn{
 #bg{
     width: 1349px;
     height: 200px;
-    background: url("images/bg.jpg")no-repeat;
+    background: url("../images/bg.jpg")no-repeat;
 }
 #conBox{
     width: 1260px;
@@ -610,7 +610,7 @@ html,body.rotateIn{
     position: absolute;
     top: 50%;
     margin-top: -7px;
-    background: url("images/topBar.png")no-repeat 0px -34px;
+    background: url("../images/topBar.png")no-repeat 0px -34px;
 }
 #topNavOpen .topNavClose i:hover{
     background-position: 0 -48px;
@@ -645,7 +645,7 @@ html,body.rotateIn{
     top: 1px;
     width: 1349px;
     height: 680px;
-    background: url("images/gameLove.jpg")no-repeat center top #fff;
+    background: url("../images/gameLove.jpg")no-repeat center top #fff;
 }
 #gameLove .gameLover{
     position: absolute;
@@ -751,7 +751,7 @@ html,body.rotateIn{
     display: inline-block;
     width: 20px;
     height: 17px;
-    background: url("images/newTop.png")no-repeat -20px -37px;
+    background: url("../images/newTop.png")no-repeat -20px -37px;
     margin-left: 10px;
 }
 #bottom{
@@ -789,7 +789,7 @@ html,body.rotateIn{
     line-height: 16px;
     margin-bottom: 20px;
     color: #888;
-    background: url("images/bottom.png")no-repeat;
+    background: url("../images/bottom.png")no-repeat;
 }
 #bottom .bottomBox1{
     font-size: 15px;

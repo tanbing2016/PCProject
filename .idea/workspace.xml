@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19e56a52-fb2b-4b01-9c24-56362e98975a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/animate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/animate.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jquery-1.11.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jquery-1.8.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/utils2.0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/auto_combine_3c6fb_dce5444.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/baidutemplate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/globalnews.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/ilike.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/index_8f607b2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/jquery(mixNIE).last.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/topBar.v2.last_4b420c9.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/topBar.v3.last.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/topBar_8de6880.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/(1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/(2)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/(3).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/(4)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/0b40e09b-e5c2-4cdb-b061-09ccd72e5850" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/0c5524c3-915d-40f1-913e-6e1cea2fba71.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/18455_650383.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/18455_650699.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/18455_651393.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/18455_652313.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/18455_652314.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/18455_652460.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/2015-04-17_571869.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/2015-04-22_573745.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/2015-04-22_574247.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/2015-04-28_577603.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/2015-05-11_583719.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/2015-05-11_583735.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/2015-05-15_586559.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/2015-05-20_587955.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/2015-07-08_612341.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/22475_650383.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/2c3cfb59-1b11-4333-bcd1-6ed730d6388.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/3a75d08e-55a1-424d-986a-b8db7bc7dfd4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/4751e6ee-2253-4924-a6a4-d34174101473.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/5F3BB7FDD27D4B01964F56E1FFBADD53" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/7f2c48e2-093f-4a51-9090-46cee985ac06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VBPVNULEU.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VBS07Q6ER.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VBSN591BH.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VBSPC9HEO.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VBTTMQ14U.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VBU8LF0SP.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VBUCLVN5P.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VBUPIJBBA.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VBUS2VLL4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VBVGJQP2V.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VBVGLUF4B.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VBVTEQ6GE.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VC0V7UJ25.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VC179QCDC.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VC2VSR9R6.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VC3D0BOB7.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VC3FA06PT.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/about.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/ae6a6cb1-f973-4329-8af7-62e81d469e4d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/boot.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/business.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/cf4cef9d-d13b-40f7-a6e1-0d75519108a0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/click" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/contactus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/d04e1aaf-8df3-41e5-a89b-41c411ed3934" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/e670d248-03ad-4eac-8339-3b2908dd7802" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/f156fcff-1bba-4c71-ab56-bfc1e0bb4582" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/fab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/home" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/index (1)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/index.html.xltd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/index.html.xltd.cfg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/legal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/overview.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/redirect.xltd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/redirect.xltd.cfg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/regInitialized" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/网易游戏.html" afterPath="$PROJECT_DIR$/网易游戏.html" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="网易游戏.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/网易游戏.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5173">
+              <caret line="715" column="6" lean-forward="true" selection-start-line="715" selection-start-column="6" selection-end-line="715" selection-end-column="6" />
+              <folding>
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#7;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="css1.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/css1.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="css.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/css.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/网易游戏.html" />
+        <option value="$PROJECT_DIR$/css/css.css" />
+        <option value="$PROJECT_DIR$/css/css1.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="网易游戏" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="网易游戏" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="网易游戏" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="网易游戏" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19e56a52-fb2b-4b01-9c24-56362e98975a" name="Default" comment="" />
+      <created>1482201185034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1482201185034</updated>
+      <workItem from="1482201186762" duration="445000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="445000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20644216" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/css1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/网易游戏.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5173">
+          <caret line="715" column="6" lean-forward="true" selection-start-line="715" selection-start-column="6" selection-end-line="715" selection-end-column="6" />
+          <folding>
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
