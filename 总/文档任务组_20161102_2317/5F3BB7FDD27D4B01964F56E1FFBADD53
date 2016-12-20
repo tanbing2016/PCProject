@@ -1,0 +1,284 @@
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>互联网文化经营单位</title>
+<script type="text/javascript">
+var path="/ccnt";
+var path1="/ccnt";
+</script>
+<!-- jtip -->
+<link rel="stylesheet" type="text/css" href="/ccnt/resources/sczr/common/css/default/html1026_v4/css/style.css">
+<link rel="stylesheet" type="text/css" href="/ccnt/resources/sczr/common/ccntResource/css/style.css">
+<script type="text/javascript" src="/ccnt/resources/sczr/common/css/default/html1026_v4/js/jquery.js"></script>
+<script type="text/javascript" src="/ccnt/resources/sczr/common/css/default/html1026_v4/js/jtip.js"></script>
+
+<script type="text/javascript" src="/ccnt/resources/sczr/common/ccntResource/js/jquery.min.js"></script><style type="text/css"></style>
+<script type="text/javascript" src="/ccnt/resources/sczr/common/ccntResource/js/plugs/jquery-ui-1.8.23.custom.min.js"></script>
+<script type="text/javascript" src="/ccnt/resources/sczr/common/ccntResource/js/plugs/json/jquery.json-2.2.js"></script>
+<script type="text/javascript" src="/ccnt/resources/sczr/common/ccntResource/js/plugs/form/jquery-form.js"></script>
+<script type="text/javascript" src="/ccnt/resources/sczr/common/ccntResource/js/plugs/form/jquery.form.js"></script>
+<script type="text/javascript" src="/ccnt/resources/sczr/common/ccntResource/js/page_js/global/common.js"></script>
+<link rel="stylesheet" type="text/css" href="/ccnt/resources/sczr/common/ccntResource/css/redmond/jquery-ui-1.8.23.custom.css">
+<link rel="stylesheet" type="text/css" href="/ccnt/resources/sczr/common/css/default/html1026_v4/css/style.css">
+<link rel="stylesheet" type="text/css" href="/ccnt/resources/sczr/common/ccntResource/css/countryquery.css">
+
+<!-- 新样式 -->
+<link rel="stylesheet" type="text/css" href="/ccnt/resources/sczr/common/css/default/html1026_v4/css/ccnt.css">
+<link rel="stylesheet" type="text/css" href="/ccnt/resources/sczr/common/css/default/html1026_v4/css/style.css" media="all">
+<link rel="stylesheet" type="text/css" href="/ccnt/resources/sczr/common/css/default/html1026_v4/css/style_dev.css">
+<script type="text/javascript" src="/ccnt/resources/sczr/common/css/default/html1026_v4/js/global.js" ></script>
+<script type="text/javascript" src="/ccnt/resources/sczr/common/ccntResource/js/plugs/AjaxFileUploaderV2.1/ajaxfileupload.js"></script>
+<script type="text/javascript" src="/ccnt/resources/sczr/common/ccntResource/js/page_js/global/jq.common.js"></script>
+<script src="/ccnt/resources/sczr/common/ccntResource/js/page_js/client/publicservice/applyonline/countrylist.js"></script>
+<script src="/ccnt/resources/sczr/common/ccntResource/js/page_js/client/publicservice/applyonline/querycountry.js"></script>
+
+<script src="/ccnt/resources/sczr/common/ccntResource/js/plugs/My97DatePicker4.8/WdatePicker.js" type="text/javascript"></script>
+<script src="/ccnt/resources/sczr/common/ccntResource/js/plugs/validate/jquery.validate.js"></script>
+<script src="/ccnt/resources/sczr/apply/js/jquery.validate.setting.js"></script>
+<script src="/ccnt/resources/sczr/apply/js/validate.input.js"></script>
+<script src="/ccnt/resources/sczr/common/ccntResource/js/plugs/validate/additional-methods.js"></script>
+
+<script src="/ccnt/resources/sczr/apply/js/jquery.ajax.ext.js"></script>
+<script src="/ccnt/resources/sczr/common/ccntResource/js/common.sczr.js"></script>
+<script src="/ccnt/resources/sczr/apply/tables/table.colname.js"></script>
+<script src="/ccnt/resources/sczr/apply/js/active.titile.patch.js"></script>
+<!--  jquery ui tabls-->
+<link rel="stylesheet" type="text/css" href="/ccnt/resources/sczr/common/ccntResource/js/plugs/jquery-ui-1.8.24/themes/base/jquery.ui.all.css" />
+<script src="/ccnt/resources/sczr/common/css/default/html1026_v4/js/thickbox.js"></script>
+
+
+<style>
+.btn {
+	width: 46px;
+	height: 22px;
+}
+.nodisplay{
+	display:none;
+}
+.submit{
+	text-align:center;
+}
+.textarea_3{width:180px;border: 1px #CCC solid;overflow-y:visible}
+.noBorder{border:none; background:none;color:#666;padding:0px;}
+
+.ui-jqgrid .ui-jqgrid-htable th div {overflow: hidden; position:relative; height:27px;}
+.ui-th-div-ie .ui-jqgrid-sortable {overflow: hidden; position:relative; height:27px;}
+.ui-th-column, .ui-jqgrid .ui-jqgrid-htable th.ui-th-column {overflow: hidden;white-space: nowrap;text-align:left;border-top : 0px none;border-bottom : 0px none;vertical-align:middle;}
+
+</style>
+<script type="text/javascript">
+	var newccnt = { basePath: "/ccnt/sczr/"};
+	var path="/ccnt";
+	var contextPath="/ccnt";
+	$(function(){
+		if(self.parent && self.parent.iframeReload){
+			try{
+				self.parent.iframeReload();
+			}catch(e){}
+		}
+		$.cachedScript("/ccnt/resources/sczr/common/js/iframe-resizer/src/iframeResizer.contentWindow.js");
+	})
+</script>
+<script>
+	var _act = "";
+	var business_id = "";
+	$(function(){
+		if(_act == 'save'){
+			if (business_id != '032011') {
+				alert("保存成功！");
+			}
+		}
+	})
+</script><style type="text/css">
+.rightTD {
+	text-align: right;
+	word-break: keep-all;
+	padding-right: 10px;
+	font-size: 14px;
+}
+
+.myLeftTD {
+	text-align: left;
+	word-break: keep-all;
+	font-size: 14px;
+	color: #168ECD;
+}
+
+.put {
+	width: 300px;
+	height: 25px;
+	font-size: 15px;
+	margin-left: 0px;
+	font-size: 14px;
+	color: #168ECD;
+}
+
+.select {
+	width: 307px;
+	height: 25px;
+	font-size: 15px;
+	margin-left: 0px;
+	font-size: 14px;
+	color: #168ECD;
+}
+
+.floatInput {
+	width: 200px;
+	height: 25px;
+	font-size: 15px;
+	margin-left: 0px;
+	font-size: 14px;
+	color: #168ECD;
+}
+
+.putDate {
+	width: 145px;
+	height: 25px;
+	font-size: 15px;
+	margin-left: 0px;
+	font-size: 14px;
+	color: #168ECD;
+}
+
+.showTR {
+	line-height: 35px;
+}
+
+.inputTR {
+	line-height: 40px;
+}
+</style>
+<script type="text/javascript">
+	//复制路径
+	function CopyAll(T) {
+		var id = document.getElementById("wanto");
+		var rng;
+		var bookmark;
+		if (document.createRange) {
+			rng = document.createRange();
+			rng.selectNodeContents(id);
+			var sel = document.getSelection();
+			sel.removeAllRanges();
+			sel.addRange(rng);
+		} else {
+			rng = document.body.createTextRange();
+			bookmark = rng.getBookmark();
+			rng.moveToElementText(id);
+			rng.scrollIntoView();
+			rng.select();
+			rng.execCommand("Copy");
+			rng.collapse(false);
+		}
+		alert("复制成功!");
+	}
+</script>
+</head>
+<body>
+	<center>
+		<div id="bodyDiv" style="margin-left: auto; margin-right: auto;">
+			<div id="headDiv" class="form-title">
+				<table width="100%" cellpadding="0" cellspacing="0">
+					<tbody>
+						<tr>
+							<td style="text-align: left;"><h1>互联网文化经营单位
+									&nbsp;&nbsp;&nbsp;</h1></td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<!-- 头部开始 -->
+			<!-- 头部结束 -->
+			<!-- 主体内容开始 -->
+			<div class="form-con">
+				<!-- 基本信息开始 -->
+				<input type="hidden" id="main_id" name="main_id"
+					value="E691888B215E4BF199518FE12D292CB6"> <input
+					type="hidden" id="APPLY_SCOPE__Hid" name="Specil__S__APPLY_SCOPE"
+					value="">
+				<!-- 纯基本信息开始 -->
+
+				<!-- 纯基本信息开始 -->
+				<div id="baseDiv" style="" class="form-item-box">
+					<div id="baseInfoDiv" class="">
+						<table width="100%" cellpadding="0" cellspacing="0">
+							<tbody>
+								<tr>
+									<td style="text-align: left; padding-left: 1cm;" valign="top">
+										<div class="form-item-left">
+											<div id="baseViewDiv" style="display: inline;">
+												<table>
+													<tbody>
+														<tr>
+															<td style="text-align: left;">
+																<table width="100%" cellpadding="0" cellspacing="0">
+																	<tbody>
+																		<tr class="showTR">
+																			<td class="rightTD">单位名称</td>
+																			<td class="myLeftTD"><span
+																				id="Input__S__COMP_NAME_SPAN">广州网易计算机系统有限公司</span></td>
+																		</tr>
+																		<tr class="showTR">
+																			<td class="rightTD" style="vertical-align: top;">
+																				许可证号 <input type="hidden" name="busi_scope" value=""
+																				id="busi_scope">
+																			</td>
+																			<td class="myLeftTD"><span id="busi_scope_span1">粤网文[2014]0636-236号</span></td>
+																		</tr>
+																		<tr class="showTR">
+																			<td class="rightTD">住所</td>
+																			<td class="myLeftTD"><span
+																				id="Input__S__REG_ADDRESS_SPAN1">广东省-广州市-天河区建中路59号702A区</span></td>
+																		</tr>
+																		<tr class="showTR">
+																			<td class="rightTD">法定代表人</td>
+																			<td class="myLeftTD"><span
+																				id="Input__S__LEGAL_NAME_SPAN">丁磊</span></td>
+																		</tr>
+																		<tr class="showTR">
+																			<td class="rightTD">经济类型</td>
+																			<td class="myLeftTD"><span>有限责任公司</span></td>
+																		</tr>
+																		<tr class="showTR">
+																			<td class="rightTD">注册资本</td>
+																			<td class="myLeftTD"><span
+																				id="Input__S__REG_FUND_SPAN">2000.0</span>&nbsp;&nbsp;万（人民币）</td>
+																		</tr>
+																		<tr class="showTR">
+																			<td class="rightTD">网站域名</td>
+																			<td class="myLeftTD">www.飞飞.net,www.飞飞.cn,www.大话西游.net,www.梦幻西游.cn,http://www.163.com,http://大话西游.com,http://梦幻西游.com,www.梦幻西游.net,www.大话西游.中国,www.飞飞.中国,www.大话西游.cn,www.飞飞.com,www.梦幻西游.中国<span>
+																			</span></td>
+																		</tr>
+																		<tr class="showTR">
+																			<td class="rightTD" style="vertical-align: top;">
+																				经营范围:</td>
+																			<td class="myLeftTD"><span>利用信息网络经营音乐娱乐产品、演出剧(节)目、动漫产品、游戏产品(含网络游戏虚拟货币发行)、表演，<br />从事网络文化产品的展览、比赛活动。</span></td>
+																		</tr>
+																		<tr class="showTR">
+																			<td class="rightTD" style="vertical-align: top;">
+																			</td>
+																			<td class="myLeftTD"><span
+																				id="busi_scope_span_1"> </span></td>
+																		</tr>
+
+																		
+																	</tbody>
+																</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+											</div>
+										</div>
+									</td>
+									<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+	</center>
+</body>
+</html>

@@ -1,0 +1,711 @@
+#conBox1{
+    left: 45px;
+    top: 0;
+    width: 100%;
+    position: absolute;
+}
+#conBox1 .innerBox2{
+    width: 700px;
+    height: 100%;
+    position: relative;
+    left: 150px;
+}
+#conBox1 .inBox1{
+    top: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 150px;
+}
+#conBox1 .inBox1 .jk{
+    width: 320px;
+    height: 100%;
+    background: #ccc;
+    position: relative;
+    float: left;
+    left: -150px;
+}
+#conBox1 .inBox1 .jk .jk-btn{
+    width: 100%;
+    height: 100%;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    transition: all .3s linear
+}
+#conBox1 .inBox1 .jk .innerJk{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top:0;
+    left: 0;
+    text-decoration: none;
+    color: #fff;
+    background: rgba(0,0,0,.5);
+    -webkit-transition: all .3s linear;
+}
+#conBox1 .inBox1 .jk .innerJk .txt1{
+    position: relative;
+    top: 0;
+    font-size: 20px;
+    line-height: 35px;
+    min-height: 50px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 30px;
+    display: block;
+    color: #fff;
+    list-style: none;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    transition: all .3s linear
+}
+#conBox1 .inBox1 .jk .innerJk .txt2{
+    position: absolute;
+    font-size: 14px;
+    line-height: 28px;
+    text-align: center;
+    width: 230px;
+    left: 50%;
+    margin-left: -115px;
+    display: block;
+    bottom: 110px;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    transition: all .3s linear;
+    z-index: 1100;
+
+}
+#conBox1 .inBox1 .jk:hover .txt1{
+    top: -40px;
+}
+#conBox1 .inBox1 .jk:hover .txt2{
+    bottom: 50px;
+}
+#conBox1 .inBox1 .jk:hover .innerJk{
+    background: 0 0;
+    background: rgba(0, 0, 0, 0);
+}
+#conBox1 .innerBox2 .inBox1 .jk:hover .jk-btn{
+    background-position: -20px 0;
+}
+#conBox1 .inBox1 .jk p{
+    position: absolute;
+    height: 60px;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    opacity: .8;
+    filter: alpha(opacity=80);
+    text-align: center;
+    line-height: 60px;
+}
+#conBox1 .inBox1 .jk p span{
+    line-height: 60px;
+    position: relative;
+    color:#fff;
+    cursor: pointer;
+}
+#conBox1 .inBox1 .jk p span a{
+    top: -4px;;
+    left: -28px;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background: url("images/like.png") no-repeat;
+    color: #fff;
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: all .4s linear 0s;
+    -moz-transition: all .4s linear 0s;
+    -ms-transition: all .4s linear 0s;
+    -o-transition: all .4s linear 0s;
+    transition: all .4s linear 0s
+}
+#conBox1 .inBox1 .jk:hover p{
+    background: 0 0;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    transition: all .3s linear
+}
+#conBox1 .inBox1 .jk:hover p span{
+    position: relative;
+    height: 60px;
+    line-height: 60px;
+    display: inline-block;
+    color:#fff;
+    font-weight: bold;
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transform: scale(1);
+}
+#conBox1 .inBox1 .jk:hover p span:hover{
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    transform: scale(1.2)
+}
+#conBox1 .inBox1 .jk:hover p span a{
+    position: absolute;
+    top: 12px;
+    left: -28px;
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    transform: scale(1.2)
+}
+#conBox1 .innerBox2 .inBox1 .jk .innerJk .daySelf{
+    position: absolute;
+    bottom: 0;
+    background: #cf1132;
+    color: #fff;
+    width: 100%;
+    height: 0;
+    opacity: 0.8;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    transition: all .3s linear;
+}
+#conBox1 .innerBox2 .inBox1 .jk:hover .daySelf{
+    height: 121px;
+}
+#conBox1 .inBox1{
+    display: none;
+    opacity: 0;
+}
+#conBox1 .inBox1:nth-child(0){
+    display: block;
+}
+#conBox1 .innerBox2 .minBanner{
+    height: 10px;
+    list-style: none;
+    position: absolute;
+    left: -100px;
+    bottom: 30px;
+    top: 240px;
+}
+#conBox1 .innerBox2 .minBanner li{
+    border: 2px solid #ccc;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    float:left;
+    margin-right: 20px;
+    cursor: pointer;
+}
+#conBox1 .innerBox2 .minBanner li.selected{
+    background: red;
+}
+#conBox2 a{
+    text-decoration: none;
+    color: #ccc;
+}
+#conBox2 #newsTitle{
+    font-size: 24px;
+    color: #cf0f32;
+    padding-bottom: 14px;
+    border-bottom: 1px #3d4041 solid;
+    display: block;
+    font-weight: 700;
+}
+#conBox2 #newsTitle:hover{
+    color: #e41f43;
+}
+#newsText{
+    position: relative;
+    width: 100%;
+    padding-top: 8px;
+}
+#newsText #newsList{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+#newsText #newsList li{
+    height: 25px;
+    line-height: 25px;
+    font-size: 14px;
+    display: list-item;
+    text-align: -webkit-match-parent;
+    color: #ccc;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: normal;
+    list-style: none;
+}
+#newsText #newsList li a{
+    width: 350px;
+    height: 25px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    color: #c3c3c3;
+    float: left;
+    font-size: 14px;
+    text-indent: 15px;
+    background: url("images/news.png")no-repeat;
+    background-position: 0 10px;
+}
+#newsText #newsList li a:hover{
+    font-weight: 700;
+    color: #fff0f0;
+}
+#newsText #newsList li span{
+    float: right;
+    font-size: 14px;
+    color: #727272
+}
+#conBox2 #newsTop #newTop{
+    width: 37px;
+    height: 37px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    background: url("images/newTop.png")no-repeat;
+}
+.span{
+    -webkit-user-select: none;
+}
+#show{
+    position: relative;
+    width: 1260px;
+    margin: 45px 0 45px 45px;
+    height: 500px;
+}
+#show .showTitleTop{
+    position: absolute;
+    width: 1260px;
+    height: 140px;
+    top: -45px;
+    z-index: 1100;
+    background: #fff;
+}
+#show .showTitleTop #showTitle{
+    position: absolute;
+    top: 70px;
+    left: 0;
+    height: 20px;
+    line-height: 20px;
+    font-size: 20px;
+    border-left: 4px #cf1132 solid;
+    padding: 0 20px;
+    width: 1200px;
+}
+#show #showTitle a{
+    float: right;
+    text-decoration: none;
+    color: #272a2c;
+    margin-right: 20px;
+}
+#i1{
+    display: inline-block;
+    width: 20px;
+    height: 17px;
+    background: url("images/newTop.png")no-repeat -20px -37px;
+    margin-left: 10px;
+}
+.innerShow{
+     z-index:100;
+     position: absolute;
+     top: 95px;
+     width:100%;
+     height: 480px;
+ }
+.innerShow2{
+    z-index:100;
+    position: absolute;
+    top: 95px;
+    width:100%;
+    height: 480px;
+}
+.innerShow .show1:nth-child(2) {
+    margin: 0 20px;
+}
+.innerShow2 .show1:nth-child(2) {
+    margin: 0 20px;
+}
+.innerShow3 .show1:nth-child(2) {
+    margin: 0 20px;
+}
+.show1{
+    overflow: hidden;
+    z-index: 0;
+    width: 400px;
+    height: 320px;
+    float: left;
+    position: relative;
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 5px #ccc ;
+}
+.show1 .showA{
+    display: block;
+    width: 100%;
+    height: 176px;
+}
+.show1 .showA img{
+    width: 100%;
+    height: 100%;
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transform: scale(1);
+}
+.show1 .showClose{
+    z-index: 10;
+    width: 400px;
+    height: 176px;
+    position: relative;
+    top: -356px;
+    background: #cf1132;
+    opacity: 0;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    transition: all .3s linear;
+}
+.show1 .showA:hover .showClose{
+    opacity: 0.6;
+    top: -180px;
+}
+.show1 .showText1{
+    font-size: 20px;
+    font-weight: 700;
+    height: 32px;
+    line-height: 32px;
+    width: 100%;
+    margin: 10px 20px;
+}
+.show1 .showText2{
+    font-size: 14px;
+    margin-left: 10px;
+}
+.show1 span{
+    position: absolute;
+    right: 127px;
+    bottom: 11px;
+    height: 30px;
+}
+.show1 a{
+    text-decoration: none;
+    color: #ccc;
+}
+.show1 .in{
+    position: absolute;
+    bottom: 11px;
+    right: 20px;
+    width: 88px;
+    height: 30px;
+    line-height: 30px;
+    display: block;
+    _border: 1px solid #ccc;
+    border-radius: 20px;
+    text-align: center;
+    background: url("images/in.png")no-repeat 0px -30px;
+    font-size: 12px;
+    transition: all .1s linear;
+}
+.show1 .in:hover{
+    color: #fff0f0;
+    background-position: 0 0;
+}
+.good{
+    position: absolute;
+    color: #9f9f9f;
+    font-size: 15px;
+    height: 30px;
+    line-height: 30px;
+    width: 110px;
+    right: -4px;
+    background: url("images/like1.png")no-repeat;
+}
+.good:hover{
+    background-position: 0 -30px;
+}
+.show1 .good i{
+    display:inline-block;
+    width: 82px;
+    height: 30px;
+    clear: both;
+    margin-left: 29px;
+}
+.show1 .good:hover{
+    background-position: 0 -30px;
+}
+.innerShow1{
+    z-index: 10;
+    position: absolute;
+    top: 95px;
+    width: 100%;
+    height: 480px;
+}
+.innerShow3 {
+    z-index: 10;
+    position: absolute;
+    top: 95px;
+    width: 100%;
+    height: 480px;
+}
+.show2{
+    display: none;
+    z-index: 10;
+    width: 400px;
+    height: 320px;
+    float: left;
+    position: relative;
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 5px #ccc;
+}
+.show2:nth-child(2){
+    margin: 0 20px;
+}
+.show2 .showA{
+    display: block;
+    width: 100%;
+    height: 176px;
+    overflow: hidden;
+}
+.show2 .showClose{
+    width: 400px;
+    height: 176px;
+    position: relative;
+    top: -356px;
+    background: #cf1132;
+    opacity: 0;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    transition: all .3s linear;
+}
+.show2 .showA:hover .showClose{
+    top: -180px;
+    opacity: 0.6;
+}
+
+.show2 .showText1{
+    font-size: 20px;
+    font-weight: 700;
+    height: 32px;
+    line-height: 32px;
+    width: 100%;
+    margin: 10px 20px;
+}
+.show2 .showText2{
+    font-size: 14px;
+    margin-left: 10px;
+}
+.show2 span{
+    position: absolute;
+    right: 127px;
+    bottom: 11px;
+    height: 30px;
+    width: 100px;
+}
+.show2 a{
+    text-decoration: none;
+    color: #ccc;
+}
+.show2 .good{
+    width: 115px;
+    height: 100%;
+    text-align: right;
+}
+.show2 .good i{
+    display:inline-block;
+    top: 0;
+    left: 0;
+    width: 82px;
+    height: 30px;
+    margin-left: 29px;
+    position: absolute;
+}
+.show2 .in{
+    position: absolute;
+    bottom: 11px;
+    right: 20px;
+    width: 88px;
+    height: 30px;
+    line-height: 30px;
+    display: block;
+    _border: 1px solid #ccc;
+    border-radius: 20px;
+    text-align: center;
+    background: url(images/in.png)no-repeat 0px -30px;
+    font-size: 12px;
+    transition: all .1s linear;
+}
+.show2 .in:hover{
+    color: #fff0f0;
+    background-position: 0 0;
+}
+.show1:nth-child(1).animated{
+    animation-duration: 1s;
+}
+.show1:nth-child(2).animated{
+    animation-delay: 0.3s;
+    animation-duration: 1s;
+}
+.show1:nth-child(3).animated{
+    animation-delay: 0.4s;
+    animation-duration: 1s;
+}
+.show2:nth-child(1).animated{
+    animation-duration: 1s;
+}
+.show2:nth-child(2).animated{
+    animation-delay: 0.5s;
+    animation-duration: 1s;
+}
+.show2:nth-child(3).animated{
+    animation-delay: 0.6s;
+    animation-duration: 1s;
+}
+.show2:nth-child(1).zoomOut{
+    animation-duration: 1s;
+}
+.show2:nth-child(2).zoomOut{
+    animation-delay: 0.1s;
+    animation-duration: 1s;
+}
+.show2:nth-child(3).zoomOut{
+    animation-delay: 0.2s;
+    animation-duration: 1s;
+}
+#gameWrap{
+    background-color: #fff;
+    min-height: 425px;
+    position: relative;
+    width: 1260px;
+    height: 100%;
+    overflow: hidden;
+}
+.gameList{
+    padding: 0 0 40px 40px;
+    border-left: 1px #eee solid;
+    border-right: 1px #eee solid;
+    position: relative;
+    width: 1260px;
+    margin: 0 auto;
+    height: 100%;
+    overflow: hidden;
+}
+.gameList a:hover{
+    font-weight: 700;
+}
+.gameList .computer,.gameList .iphone{
+    float: left;
+}
+.gameList .computer{
+    width: 477px;
+    height: 492px;
+}
+.gameList .iphone{
+    width: 740px;
+    height: 769px;
+}
+.gameList .gameTitle{
+    padding: 25px 0;
+    background: #fbfbfb;
+
+}
+.gameList .gameTitle em{
+    border-left: 4px #dd1136 solid;
+    height: 16px;
+    line-height: 16px;
+    text-indent: 36px;
+    font-size: 16px;
+    font-weight: 700;
+    font-style: normal;
+    display: block;
+}
+.gameBox1{
+    width: 272px;
+    padding-left: 40px;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+}
+.gameList h2{
+    width: 100%;
+    padding: 25px 0;
+    color: #dd1136;
+    font-size: 14px;
+}
+.gameList ul{
+    list-style: none;
+}
+.gameList a{
+    text-decoration: none;
+    color: #666;
+}
+.gameList li{
+    float: left;
+    width: 136px;
+    height: 27px;
+    line-height: 27px;
+}
+.gameList em.h{
+    right: -8px;
+}
+.gameList em.n{
+    right: -8px;
+}
+.gameList a{
+    font-size: 14px;
+}
+.gameBox1,.gameBox2{
+    float: left;
+}
+.gameBox2{
+    width: 120px;
+    padding-left: 42px;
+    border-right: 1px solid #ccc;
+}
+.gameBox3{
+    position: relative;
+    width: 131px;
+    _height: 482px;
+    padding-left: 30px;
+    border-right: 1px solid #ccc;
+}
+.gameBox3,.gameBox4{
+    float: left;
+}
+.gameBox4{
+    width: 545px;
+    padding-left: 32px;
+    border-right: 1px solid #ccc;
+}
+.gameBox4 em.n{
+    right: -2px;
+}
+#showBottom .showA img{
+    transform: scale(1);
+    transition: all 0.3s linear;
+}
+#showBottom .showA img:hover{
+    transform: scale(1.2);
+}
+.showA{
+    overflow: hidden;
+}
+.innerShow3 {}

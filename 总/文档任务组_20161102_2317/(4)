@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>《率土之滨》手游官网_网易全自由沙盘战略手游</title>
+	<meta name="from" content="git:STZB/stzb-fab-pc-20161017">
+		<meta name="keywords" content="率土之滨,率土，之滨，率土之滨官网,率土之滨下载，率土之滨福利,率土之滨周年礼包，率土之滨特色，
+			率土之滨新服活动，新服好礼，五星武将，安卓下载,ios下载,新手礼包,领取,攻略,寸土必争,周年庆典,我们的战争,全新地图,典藏卡牌,
+			周年卡包,周年活动">
+		<meta name="description" content="《率土之滨》全自由沙盘战略手游，三国乱世，邦无定交，土无定主，谁主沉浮？新服豪礼不断！尽享寸土必争的乐趣">
+		<meta charset="gb2312">
+		<meta name="author" content="网易，NetEase Inc.">
+		<meta name="copyright" content="网易，NetEase Inc.">
+		<meta name="pmid" content="19250">
+		<meta name="editor" content="zhulin">
+		<meta name="designer" content="Kevin,qiufangyuan">
+		<meta name="front-end technicist" content="huangchuan">
+		<meta name="applicable-device" content="PC">
+		<link rel="dns-prefetch" href="http://res.nie.netease.com">
+		<!--[if lt IE 9]>
+		<script src="http://res.nie.netease.com/comm/html5/html5shiv.js"></script>
+		<![endif]-->
+		<link rel="stylesheet" href="http://res.nie.netease.com/comm/css/base.css">
+		<link rel="stylesheet" href="http://res.nie.netease.com/comm/js/nie/util/alertBox/css/alertBox.css">
+		<link type="text/css" rel="stylesheet" href="http://res.stzb.netease.com/pc/fab/20161019102643/css/index_9d64484.css" media="all">
+		<script data-fixed="true">!function(){function o(o,t){var e=new RegExp("(?:&|/?)"+t+"=([^&$]+)").exec(o);return e?e[1]:""}1==/iphone|ios|android|ipod/i.test(navigator.userAgent.toLowerCase())&&"mobile"!=o(location.search,"from")&&(location.href="http://stzb.163.com/m/boot.html")}();</script><!--ignore-->
+	</head>
+
+	<body>
+		<!--[if lt IE 7]>
+  			<div style="position:absoulute;left:0;top:0;width:100%;height:50px;background:rgb(255,255,233);color:rgb(30,84,148);border-bottom:1px solid rgb(230,230,198);text-align:center;line-height:50px;font-size:12px;">您使用的浏览器版本过低，可能会影响到您浏览本网页，建议您升级您的浏览器。</div>
+  		<![endif]-->
+
+		<div class="head">
+
+			<div id="NIE-topBar"></div>
+			<div class="main">
+				<div id="flash-wrap"></div>
+			</div>
+			<a class="logo" target="_blank" href="http://stzb.163.com/index.html"><span>- 网易全自由沙盘战略手游 - </span></a>
+			<a class="btn_gw" target="_blank" href="http://stzb.163.com/index.html">进入官网</a>
+			
+			<div class="main">
+				<div class="dl_wrap">
+					<a class="icon" target="_blank" href="http://stzb.163.com"><img src="http://res.stzb.netease.com/pc/fab/20161019102643/img/icon_af061dd.png"></a>
+					<div id="nie-download" class="nie-download" pub-name="下载参数" data-download="stzb|gw">
+						<div class="buttons">
+							<a target="_blank" class="link-apple NIE-button-ios"></a>
+							<a target="_blank" class="link-android NIE-button-android"></a>
+						</div>
+						<div class="NIE-qrcode"></div>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+		<div class="container">
+			<div class="main">
+				<div class="part1 active">
+					<div class="line line1 animation js_pop " data-id="0">
+						<img src="http://res.stzb.netease.com/pc/fab/20161019102643/img/p1_1_6988641.jpg">
+						<div class="cont">
+							<i class="fl"></i>
+							<div class="tit_wrap">
+								<div class="p1_tit"></div>
+								<div class="subtit">五星战法</div>
+							</div>
+						</div>
+						<div class="lt"></div>
+						<div class="lr"></div>
+						<div class="lb"></div>
+						<div class="ll"></div>
+					</div>
+					<div class="line line2 animation js_pop" data-id="1">
+						<img src="http://res.stzb.netease.com/pc/fab/20161019102643/img/p1_2_3812daa.jpg">
+						<div class="cont">
+							<i class="fl"></i>
+							<div class="tit_wrap">
+								<div class="p1_tit"></div>
+								<div class="subtit">庆典特制</div>
+							</div>
+						</div>
+						<div class="lt"></div>
+						<div class="lr"></div>
+						<div class="lb"></div>
+						<div class="ll"></div>
+					</div>
+					<div class="line line3 animation js_pop" data-id="2">
+						<img src="http://res.stzb.netease.com/pc/fab/20161019102643/img/p1_3_4a08aac.jpg">
+						<div class="cont">
+							<i class="fl"></i>
+							<div class="tit_wrap">
+								<div class="p1_tit"></div>
+								<div class="subtit">良将来投</div>
+							</div>
+						</div>
+						<div class="lt"></div>
+						<div class="lr"></div>
+						<div class="lb"></div>
+						<div class="ll"></div>
+					</div>
+					<div class="line line4 animation js_pop" data-id="3">
+						<img src="http://res.stzb.netease.com/pc/fab/20161019102643/img/p1_4_bd8acb5.jpg">
+						<div class="cont">
+							<i class="fl"></i>
+							<div class="tit_wrap">
+								<div class="p1_tit"></div>
+								<div class="subtit">普天同庆</div>
+							</div>
+						</div>
+						<div class="lt"></div>
+						<div class="lr"></div>
+						<div class="lb"></div>
+						<div class="ll"></div>
+					</div>
+					<div class="line line5 animation js_pop" data-id="4">
+						<img src="http://res.stzb.netease.com/pc/fab/20161019102643/img/p1_5_752f9e9.jpg">
+						<div class="cont">
+							<i class="fl"></i>
+							<div class="tit_wrap">
+								<div class="p1_tit"></div>
+								<div class="subtit">再踏征程</div>
+							</div>
+						</div>
+						<div class="lt"></div>
+						<div class="lr"></div>
+						<div class="lb"></div>
+						<div class="ll"></div>
+					</div>
+				</div>
+				<div class="part2">
+					<div class="p_title animation"><img src="http://res.stzb.netease.com/pc/fab/20161019102643/img/t1_d914b15.png" alt="标题1"></div>
+					<ul class="fuli clearfix">
+						<li class="js_pop" data-id="5">
+							<div class="bottom_side">充值任意金额送5星【何太后】</div>
+						</li>
+						<li class="js_pop" data-id="6">
+							<div class="bottom_side">连续登录7天，领取2张【五星武将卡】</div>
+						</li>
+						<li class="js_pop" data-id="7">
+							<div class="bottom_side">累计充值128元，最高返利【3840玉符】</div>
+						</li>
+						<li class="js_pop" data-id="8">
+							<div class="bottom_side">加入同盟，最高获得【1000玉符】奖励</div>
+						</li>
+						<li class="js_pop" data-id="9">
+							<div class="bottom_side">潼关演武即送【王美人】+【500玉符】</div>
+						</li>
+						<li class="js_pop" data-id="10">
+							<div class="bottom_side">同盟夺取3级以上城池，可获得大量玉符</div>
+						</li>
+					</ul>
+				</div>
+				<div class="part3">
+					<div class="p_title animation"><img src="http://res.stzb.netease.com/pc/fab/20161019102643/img/t2_bef08bb.png" alt="标题2"></div>
+				</div>
+			</div>
+		</div>
+		<div class="role_wrap clearfix">
+			<a class="role role1 animation" target="_blank" href="http://stzb.163.com/js/">
+				<div class="bg"><img src="http://res.stzb.netease.com/pc/fab/20161019102643/img/role1_bg_8212ab6.jpg" alt="人物1背景"></div>
+				<div class="role_img"><img src="http://res.stzb.netease.com/pc/fab/20161019102643/img/role1_16386c0.png" alt="人物1"></div>
+				<div class="bottom">
+					<div class="hover_side"></div>
+					<div class="d_side">
+						<div class="tit">
+							<img class="img1" src="http://res.stzb.netease.com/pc/fab/20161019102643/img/role1_tit_0fbdd5d.png" alt="人物1标题">
+							<img class="img2" src="http://res.stzb.netease.com/pc/fab/20161019102643/img/role1_tit_h_19c3f12.png" alt="人物1标题——h">
+						</div>
+						<div class="goto">点击前往</div>
+					</div>
+					
+				</div>
+			</a>
+			<a class="role role2 animation" target="_blank" href="http://stzb.163.com/fbh/">
+				<div class="bg"><img src="http://res.stzb.netease.com/pc/fab/20161019102643/img/role2_bg_d93094c.jpg" alt="人物2背景"></div>
+				<div class="role_img"><img src="http://res.stzb.netease.com/pc/fab/20161019102643/img/role2_d29a6d1.png" alt="人物2"></div>
+				<div class="bottom">
+					<div class="hover_side"></div>
+					<div class="d_side">
+						<div class="tit">
+							<img class="img1" src="http://res.stzb.netease.com/pc/fab/20161019102643/img/role2_tit_4b01db4.png" alt="人物2标题">
+							<img class="img2" src="http://res.stzb.netease.com/pc/fab/20161019102643/img/role2_tit_h_ee9cca5.png" alt="人物2标题h">
+						</div>
+						<div class="goto">点击前往</div>
+					</div>
+				</div>
+			</a>
+			
+			<a class="role role3 animation" target="_blank" href="http://stzb.163.com/hd/">
+				<div class="bg"><img src="http://res.stzb.netease.com/pc/fab/20161019102643/img/role3_bg_7383986.jpg" alt="人物3背景"></div>
+				<div class="role_img"><img src="http://res.stzb.netease.com/pc/fab/20161019102643/img/role3_9b3caa6.png" alt="人物3"></div>
+				<div class="bottom">
+					<div class="hover_side"></div>
+					<div class="d_side">
+						<div class="tit">
+							<img class="img1" src="http://res.stzb.netease.com/pc/fab/20161019102643/img/role3_tit_3f89c74.png" alt="人物3标题">
+							<img class="img2" src="http://res.stzb.netease.com/pc/fab/20161019102643/img/role3_tit_h_b1b28fe.png" alt="人物3标题h">
+						</div>
+						<div class="goto">点击前往</div>
+					</div>
+				</div>
+			</a>
+			<a class="role role4 animation" target="_blank" href="http://stzb.163.com/yy/">
+				<div class="bg"><img src="http://res.stzb.netease.com/pc/fab/20161019102643/img/role4_bg_8188c70.jpg" alt="人物4背景"></div>
+				<div class="role_img"><img src="http://res.stzb.netease.com/pc/fab/20161019102643/img/role4_1108b73.png" alt="人物4"></div>
+				<div class="bottom">
+					<div class="hover_side"></div>
+					<div class="d_side">
+						<div class="tit">
+							<img class="img1" src="http://res.stzb.netease.com/pc/fab/20161019102643/img/role4_tit_12cfacb.png" alt="人物4标题">
+							<img class="img2" src="http://res.stzb.netease.com/pc/fab/20161019102643/img/role4_tit_h_2634cdb.png" alt="人物4">
+						</div>
+						<div class="goto">点击前往</div>
+					</div>
+				</div>
+			</a>	
+		</div>
+		<div class="container2">
+			<div class="main">
+				<div class="p_title animation"><img src="http://res.stzb.netease.com/pc/fab/20161019102643/img/t4_5f5a306.png" alt="标题3"></div>
+				<div class="left">
+					<div class="unit left_top fr animation">
+						<a href="http://res.stzb.netease.com/pc/fab/20161019102643/img/y1_6175cfa.jpg" data-lightbox="image-1">
+							<div class="mask"></div>
+							<div class="more"></div>
+						</a>
+						
+					</div>
+					<div class="unit left_bottom fr animation">
+						<a href="http://res.stzb.netease.com/pc/fab/20161019102643/img/y3_33d2f0d.jpg" data-lightbox="image-1">
+							<div class="mask"></div>
+							<div class="more"></div>
+						</a>
+						
+					</div>
+				</div>
+				<div class="right">
+					<div class="unit right_top animation">
+						<a href="http://res.stzb.netease.com/pc/fab/20161019102643/img/y2_09b8968.jpg" data-lightbox="image-1">
+							<div class="mask"></div>
+							<div class="more"></div>
+						</a>
+						
+					</div>
+					<div class="unit right_bottom animation">
+						<a href="http://res.stzb.netease.com/pc/fab/20161019102643/img/y4_c9272b5.jpg" data-lightbox="image-1">
+							<div class="mask"></div>
+							<div class="more"></div>
+						</a>
+						
+					</div>
+				</div>
+				<div id="share"></div>
+			</div>
+		</div>
+		<div class="bigMask"></div>
+		<div class="pop">
+			<div class="close"></div>
+			<h3>首冲送好礼</h3>
+			<div class="text">
+				<p>只要累计登录7天即可获得3张4星武将卡，2张5星武将卡</p>
+				<p>发奖方式：累计登录满指定天数时以登录奖励形式发放。</p>
+			</div>
+		</div>
+		<div id="NIE-copyRight"></div>
+		<div id="share_content" style="display:none">
+			<h1>《率土之滨》沙盘战略，寸土必争！新服豪礼相赠，助君逐鹿中原！……更多请下载（http://stzb.163.com/），体验前所未有的全自由沙盘战略手游！</h1>
+			<div id="share_title" pub-name="分享文案">《率土之滨》沙盘战略，寸土必争！新服豪礼相赠，助君逐鹿中原！……更多请下载（http://stzb.163.com/），体验前所未有的全自由沙盘战略手游！</div>
+			<div id="share_url" pub-name="分享地址  "></div>
+			<div id="share_desc" pub-name="分享文本">《率土之滨》沙盘战略，寸土必争！多人实时沙盘推演，每寸土地皆可争夺！ 庆典惊喜不断，新服好礼不停！……更多请下载（http://stzb.163.com/），体验前所未有的全自由沙盘战略手游！</div>
+			<img id="share_pic" data-src="http://res.stzb.netease.com/pc/fab/20161019102643/img/logo_1cf70b1.png" pub-name="分享图片">
+		</div>
+		<div style="display: none;" id="js_yingxiao" pub-name="营销点代码">http://gad.netease.com/mmad/point?point_id=10402&s=st0ZY1v0%2B1MwCgUM6dV5j23j40o%3D</div>
+		<!--ignore不能换行-->
+		<script charset="gb2312" src="http://res.nie.netease.com/comm/js/jquery(mixNIE).1.11.js"></script>
+		<script type="text/javascript" src="http://res.nie.netease.com/comm/js/nie/ref/lightbox2.js"></script>
+		<script charset="gb2312" src="http://res.stzb.netease.com/pc/fab/20161019102643/js/app/common_97008f8.js"></script>
+		<script charset="gb2312" src="http://res.stzb.netease.com/pc/fab/20161019102643/js/app/data_71fbfd3.js"></script>
+		<script charset="gb2312" src="http://res.stzb.netease.com/pc/fab/20161019102643/js/app/index_b114a38.js"></script>
+	</body>
+
+</html>
+
+<!--This is Git Project From STZB/stzb-fab-pc-20161017(4168)-->

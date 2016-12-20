@@ -1,0 +1,534 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>《HIT：我守护的一切》手游官方网站_颜值控必玩的韩国第一ARPG！全球首款虚幻4动作手游</title>
+	<meta name="from" content="git:HIT/hit-fab-pc-20161021">
+<meta charset="utf-8">
+<meta name="renderer" content="webkit|ie-comp|ie-stand">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="HIT：我守护的一切,HIT,hit,HIT手游, hit手游,HIT手游下载,hit手游下载,HIT攻略,HIT礼包,HIT礼包码，hit攻略,hit礼包，hit礼包码，我守护的一切, 我守护的一切手游,我守护的一切下载,我守护的一切礼包,我守护的一切攻略,我守护的一切官网,我守护的一切礼包码,虚幻4, 动作手游,3D,网易手游,韩国游戏, 天堂2制作人, 颜值">
+<meta name="description" content="《HIT：我守护的一切》是由《天堂2》、《TERA》的原班制作团队倾力开发的ARPG手游，以十五年制作经验呈现端游品质的手游巨制。作为全球首款采用虚幻4引擎打造的ARPG，游戏实现了殿堂级的画质，连同致命打击感，带来完美的动作体验。">
+
+<meta name="author" content="网易，NetEase Inc.">
+<meta name="copyright" content="网易，NetEase Inc.">
+<meta name="pmid" content="18991">
+<meta name="editor" content="bingao">
+<meta name="designer" content="qiufangyuan">
+<meta name="front-end technicist" content="momo">
+<link rel="dns-prefetch" href="http://res.nie.netease.com">
+    <!--[if lt IE 9]>
+    <script src="http://res.nie.netease.com/comm/html5/html5shiv.js"></script>
+    <![endif]-->
+    <!--页面直接引用less文件-->
+    <link rel="stylesheet" type="text/css" href="http://res.nie.netease.com/comm/js/nie/util/alertBox/css/alertBox.css">
+    <link rel="stylesheet" type="text/css" href="http://res.hit.netease.com/pc/fab/20161024100212/css/idangerous.swiper_c064b4a.css">
+	<link rel="stylesheet" data-fixed="true" type="text/css" href="http://res.hit.netease.com/pc/fab/20161024100212/css/index_2196ccd.css">
+    <script data-fixed="true" pub-name="双端跳转" id="js_jump">!function(){function o(o,e){var t=new RegExp("(?:&|/?)"+e+"=([^&$]+)").exec(o);return t?t[1]:""}1==/iphone|ios|android|ipod/i.test(navigator.userAgent.toLowerCase())&&"mobile"!=o(location.search,"from")&&(location.href="http://hit.163.com/m")}();</script>
+</head>
+<body>
+    <!--[if lt IE 7]>
+    <div style="position:absoulute;left:0;top:0;width:100%;height:50px;background:rgb(255,255,233);color:rgb(30,84,148);border-bottom:1px solid rgb(230,230,198);text-align:center;line-height:50px;font-size:12px;">您使用的浏览器版本过低，可能会影响到您浏览本网页，建议您升级您的浏览器。</div>
+    <![endif]-->
+
+    <!--分享文案-->
+    <div id="share_content" style="display:none">
+        <div id="share_title" pub-name="分享文案">《HIT：我守护的一切》手游官方网站_全球首款虚幻4动作手游</div>
+        <div id="share_url" pub-name="分享地址">http://hit.163.com/</div>
+        <div id="share_desc" pub-name="分享文本">《HIT：我守护的一切》是由《天堂2》、《TERA》的原班制作团队倾力开发的ARPG手游，以15年制作经验呈现端游品质的手游巨制。作为全球首款采用虚幻4引擎打造的ARPG，游戏实现了殿堂级的画质，连同致命打击感，带来完美的动作体验。</div>
+       <img id="share_pic" data-src="http://res.hit.netease.com/pc/fab/20161024100212/data/share.jpg" pub-name="分享图片">
+    </div>
+	
+	<div id="header">
+		<!--此乃头部-->
+		<div id="NIE-topBar"></div>
+		
+		<!--主导航-->
+		<div id="mainNav">
+			<a href="http://hit.163.com/index.html" target="_blank" class="logo">
+				<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/logo_e42e750.png" alt="">
+			</a>
+			
+			<div class="shareBox" id="JshareBox">
+				<div class="tit clearfix">
+					<a href="http://hit.163.com/index.html" target="_blank" class="gw">进入官网</a>
+					<div id="NIE-share"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div id="wrap" class="swiper-container">
+		<h1>我守护的一切</h1>
+    	<div class="swiper-wrapper">
+    		<!--第一屏-->
+    		<div class="swiper-slide main-slide page-1">
+    			<div class="content">
+    				<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/slogan_a02cc17.png" alt="" class="slogan">
+					<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/title_6349587.png" alt="" class="info">
+					<div class="download-box">
+						<div id="nie-download" class="nie-download down-wrap" pub-name="下载参数2" data-download="hit|gw">
+			                <div class="NIE-qrcode"></div>
+			                <div class="buttons">
+			                    <a class="link-apple NIE-button-ios" target="_blank"></a>
+			                    <a class="link-android NIE-button-android" target="_blank"></a>
+			                </div>
+			                <p>扫码下载游戏</p>
+			           	</div>
+			           	
+			           	<a href="javascript:void(0);" class="libao"></a>
+					</div>
+					<a href="javascript:void(0);" class="play" data-src="http://v.nie.netease.com/nie/2016/1024/70fbe4c8aef9661b4371e9e0635dac7dqt.mp4">
+						<span></span>
+						<i></i>
+					</a>
+    			</div>
+			</div>
+			
+			<!--第二屏-->
+    		<div class="swiper-slide main-slide page-2">
+    			<div class="content">
+    				<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/title-hl_cead4ae.png" alt="" class="title">
+					<ul class="hl-list">
+						<li class="item-1"></li>
+						<li class="item-2"></li>
+						<li class="item-3"></li>
+						<li class="item-4"></li>
+						<li class="item-5"></li>
+						<li class="item-6"></li>
+						<li class="item-7"></li>
+						<li class="item-8"></li>
+						<li class="item-9"></li>
+						<li class="item-10"></li>
+					</ul>
+    			</div>
+			</div>
+			
+			<!--第三屏-->
+    		<div class="swiper-slide main-slide page-3">
+				<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/title-ts_af083aa.png" alt="" class="title">
+				<div class="handler">
+					<a class="arrow-left" href="#"></a> 
+    				<a class="arrow-right" href="#"></a>
+				</div>
+				
+				<div class="swiper-container" id="ts">
+					<div class="swiper-wrapper">
+						<div class="swiper-slide slide-1">
+							<div class="content">
+								<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/ts-1-3_97ab0ba.png" alt="" class="pic fadeInLeft">
+								<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/ts-1-2_1e4c878.png" alt="" class="person fadeInRight">
+							</div>
+						</div>
+						<div class="swiper-slide slide-2">
+							<div class="content">
+								<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/ts-2-3_7ffb5f0.png" alt="" class="pic fadeInLeft">
+								<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/ts-2-2_1945a66.png" alt="" class="person fadeInRight">
+							</div>
+							
+						</div>
+						<div class="swiper-slide slide-3">
+							<div class="content">
+								<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/ts-3-3_423443d.png" alt="" class="pic fadeInLeft">
+								<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/ts-3-2_480f859.png" alt="" class="person fadeInRight">
+							</div>
+							
+						</div>
+						<div class="swiper-slide slide-4">
+							<div class="content">
+								<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/ts-4-3_2c00152.png" alt="" class="pic fadeInLeft">
+								<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/ts-4-2_0fee1e9.png" alt="" class="person fadeInRight">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<!--第四屏-->
+    		<div class="swiper-slide main-slide page-4">
+    			<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/title-job_f438576.png" alt="" class="title">
+    			<div class="content">
+	    			<div class="map">
+						<div class="tabs">
+							<div class="pics">
+								<a href="javascript:void(0);" class="item item-0">
+									<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/avatar-1_0788f28.png" alt="" class="default">
+									<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/avatar-1-hover_03dd880.png" alt="" class="high">
+									<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/selected_9abb014.png" alt="" class="selected">
+								</a>
+								<a href="javascript:void(0);" class="item item-1">
+									<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/avatar-4_67ff066.png" alt="" class="default">
+									<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/avatar-4-hover_182aa50.png" alt="" class="high">
+									<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/selected_9abb014.png" alt="" class="selected">
+								</a>
+								<a href="javascript:void(0);" class="item item-2 cur">
+									<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/avatar-3_7f9fe94.png" alt="" class="default">
+									<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/avatar-3-hover_691928a.png" alt="" class="high">
+									<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/selected_9abb014.png" alt="" class="selected">
+								</a>
+								<a href="javascript:void(0);" class="item item-3">
+									<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/avatar-2_1b49ddc.png" alt="" class="default">
+									<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/avatar-2-hover_561fdca.png" alt="" class="high">
+									<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/selected_9abb014.png" alt="" class="selected">
+								</a>
+							</div>
+							<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/transparent_2e733c4.png" alt="" class="line" usemap="#picture" hidefocus="true">
+							<map name="picture" id="picture">
+								<area shape="poly" coords="76,70,145,140,215,70,145,0" href="javascript:void(0);">
+								<area shape="poly" coords="0,146,70,216,140,146,70,75" href="javascript:void(0);">
+								<area shape="poly" coords="696,199,765,270,835,199,765,130" href="javascript:void(0);">
+								<area shape="poly" coords="619,275,690,345,760,275,690,205" href="javascript:void(0);">
+							</map>
+						</div>
+					</div>
+					
+					<div class="bg"></div>
+					
+					<div class="swiper-container" id="job">
+						<div class="swiper-wrapper">
+							<div class="swiper-slide slide-1">
+								<div class="des-box clearfix">
+									<div class="name">琦琦</div>
+									<p class="des">与自然结下契约的精灵一族，备受万物青睐，天生能操控水与雷电之力。娇小的身躯里，储藏着涤荡掉世上所有黑暗的巨大意志。</p>
+								</div>
+								<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/person-2_937d7f4.png" alt="" class="person">
+							</div>
+							
+							<div class="swiper-slide slide-2">
+								<div class="des-box clearfix">
+									<div class="name">卢卡斯</div>
+									<p class="des">游走在光暗之间的独行者，年轻而孤高。双刀是他从不离身的武器，是他戏弄于鼓掌间的艺术，更是他的勋章，见证了他不曾旁落的胜利。</p>
+								</div>
+								<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/person-4_723214e.png" alt="" class="person">
+							</div>
+							
+							<div class="swiper-slide slide-3">
+								<div class="des-box clearfix">
+									<div class="name">埃尼卡</div>
+									<p class="des">没有人比她更深谙杀戮的美妙。提着长镰的她，游弋在晨昏交替中，携死神而至。刃上淬满敌人的鲜血，只给对方留下长眠和经久的恐惧。</p>
+								</div>
+								<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/person-1_d19fd0a.png" alt="" class="person">
+							</div>
+							<div class="swiper-slide slide-4">
+								<div class="des-box clearfix">
+									<div class="name">修高</div>
+									<p class="des">女神最忠实的信徒。背负巨剑行走在大地，传递神的旨意。剑身宽厚，一如他的性格，筑起了守护的长堤。</p>
+								</div>
+								<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/person-3_47d7837.png" alt="" class="person">
+							</div>
+						</div>
+					</div>
+    			</div>
+    			<div id="NIE-copyRight"></div>
+			</div>
+			
+			<div id="snow-canvas"></div>
+    		<img id="huaban_pic" src="http://res.hit.netease.com/pc/fab/20161024100212/img/flower_439280b.png" style="display:none">
+			
+		</div>
+		
+		<!--导航-->
+		<ul id="navigation">
+			<li class="nav-1 cur">首页</li>
+			<li class="nav-2">豪礼</li>
+			<li class="nav-3">特色</li>
+			<li class="nav-4">职业</li>
+		</ul>
+		
+		<!--指引箭头-->
+		<span class="J_arrow tip-arrow show"></span>
+	</div>
+	
+	<!--豪礼弹窗-->
+<div class="pop-dialog" id="Jdialog">
+    <a href="javascript:;" class="dialog-close"></a>
+    <div class="dialog-con">
+    	
+    </div>
+    <a href="javascript:void(0);" class="prev" id="dp"></a>
+    <a href="javascript:void(0);" class="next" id="dn"></a>
+</div>
+
+<div style="display: none;">
+	<div class="main">
+    	<!--豪礼1-->
+    	<div class="content">
+	    	<div class="title">01 全民福利</div>
+	    	<div class="article">
+	    		<p>庆祝预约达到20w，开服后24小时内登陆的所有玩家，全部玩家皆可获得预约终极奖励！</p>
+	    		<table>
+	    			<thead>
+	    				<tr>
+	    					<th>预约量</th>
+	    					<th>相应奖励</th>
+	    				</tr>
+	    			</thead>
+	    			<tbody>
+	    				<tr>
+	    					<td>5W</td>
+	    					<td>金币*3W、炽天使羽毛*20</td>
+	    				</tr>
+	    				<tr>
+	    					<td>10W</td>
+	    					<td>金币*3W、炽天使羽毛*30</td>
+	    				</tr>
+	    				<tr>
+	    					<td>20W</td>
+	    					<td>金币*3W、炽天使羽毛*50、英雄饰品召唤券*1</td>
+	    				</tr>
+	    			</tbody>
+	    		</table>
+	    		<p class="tip">
+	    			注：炽天使羽毛为游戏商城代币，可购买游戏商城物品；英雄饰品召唤券，使用可获得英雄品质的饰品装备。
+	    		</p>
+	    	</div>
+    	</div>
+    	
+    	<!--豪礼2-->
+    	<div class="content">
+    		<div class="title">02 签到豪礼</div>
+	    	<div class="article">
+	    		<p>创建游戏角色7日内，玩家登陆即可获得对应奖励</p>
+	    		<table>
+	    			<tbody>
+	    				<tr>
+	    					<td width="80">1 天</td>
+	    					<td>炽天使之羽毛*50</td>
+	    				</tr>
+	    				<tr>
+	    					<td width="80">2 天</td>
+	    					<td>英雄品质武器召唤券*1</td>
+	    				</tr>
+	    				<tr>
+	    					<td width="80">3 天</td>
+	    					<td>扫荡券*100</td>
+	    				</tr>
+	    				<tr>
+	    					<td width="80">4 天</td>
+	    					<td>钻石*150</td>
+	    				</tr>
+	    				<tr>
+	    					<td width="80">5 天</td>
+	    					<td>英雄品质防具召唤券*1</td>
+	    				</tr>
+	    				<tr>
+	    					<td width="80">6 天</td>
+	    					<td>经验加成卡*50</td>
+	    				</tr>
+	    				<tr>
+	    					<td width="80">7 天</td>
+	    					<td>史诗品质防具召唤券*1,史诗品质饰品召唤券*1</td>
+	    				</tr>
+    				</tbody>
+	    		</table>
+	    		<p class="tip">注：炽天使羽毛为游戏商城代币，可购买游戏商城物品；召唤券，使用可直接获得相应品质的装备。</p>
+	    	</div>
+    	</div>
+    	
+    	<!--豪礼3-->
+    	<div class="content">
+    		<div class="title">03 30元话费</div>
+    		<div class="article">
+    			<p>安卓玩家专享福利，预约下载冲级，即可免费获得30元话费！！</p>
+    			<p class="center">扫描活动二维码，立即报名参加！</p>
+	    		<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/huafei_70db738.jpg" alt="" class="qr">
+    		</div>
+    	</div>
+    	
+    	<!--豪礼4-->
+    	<div class="content">
+    		<div class="title">04 首冲大奖</div>
+	    	<div class="article">
+	    		<p class="s-title">玩家首次充值任意值，即可获得豪华奖励：</p>
+	    		<p class="indent">道具加成卡*10</p>
+	    		<p class="indent">经验加成卡*10</p>
+	    		<p class="indent">金币加成卡*10</p>
+	    		<p class="indent">史诗品质饰品召唤券*1</p>
+	    		<p class="tip">注：加成卡：探索冒险副本时使用，会增加相应物品的掉落；召唤券，使用可直接获得相应品质的装备。</p>
+	    		<p>每次充值均有额外钻石赠送。首次充值，额外钻石双倍赠送。</p>
+	    		<table>
+	    			<tbody>
+	    				<tr>
+	    					<td width="80">6 元</td>
+	    					<td>充值6元，可购买60钻石。</td>
+	    				</tr>
+	    				<tr>
+	    					<td>30  元</td>
+	    					<td>充值30元，可购买300钻石。首次充值可多获得60钻石，以后每次购买可多获得30钻石。</td>
+	    				</tr>
+	    				<tr>
+	    					<td>60 元</td>
+	    					<td>充值60元，可购买600钻石。首次充值可多获得160钻石，以后每次购买可多获得80钻石。</td>
+	    				</tr>
+	    				<tr>
+	    					<td>128 元</td>
+	    					<td>充值128元，可购买1280钻石。首次充值可多获得400钻石，以后每次购买可多获得200钻石。</td>
+	    				</tr>
+	    				<tr>
+	    					<td>288 元</td>
+	    					<td>充值288元，可购买2880钻石。首次充值可多获得1000钻石，以后每次购买可多获得500钻石。</td>
+	    				</tr>
+	    				<tr>
+	    					<td>648 元</td>
+	    					<td>充值648元，可购买6480钻石。首次充值可多获得3200钻石，以后每次购买可多获得1600钻石。</td>
+	    				</tr>
+	    			</tbody>
+	    		</table>
+	    	</div>
+    	</div>
+    	
+    	<!--豪礼5-->
+    	<div class="content">
+    		<div class="title">05 轻松升级</div>
+	    	<div class="article">
+	    		<p>购买成长基金，等级到达规定等级，即可领取钻石返利，累计可获得8800钻！</p>
+	    		<table>
+	    			<tbody>
+	    				<tr>
+	    					<td width="80">20级</td>
+	    					<td>200钻石</td>
+	    				</tr>
+	    				<tr>
+	    					<td>30级</td>
+	    					<td>500钻石</td>
+	    				</tr>
+	    				<tr>
+	    					<td>40级</td>
+	    					<td>1000钻石</td>
+	    				</tr>
+	    				<tr>
+	    					<td>45级</td>
+	    					<td>1300钻石</td>
+	    				</tr>
+	    				<tr>
+	    					<td>50级</td>
+	    					<td>1800钻石</td>
+	    				</tr>
+	    				<tr>
+	    					<td>55级</td>
+	    					<td>2000钻石</td>
+	    				</tr>
+	    				<tr>
+	    					<td>60级</td>
+	    					<td>2000钻石</td>
+	    				</tr>
+    				</tbody>
+				</table>
+	    	</div>
+    	</div>
+    	
+    	<!--豪礼6-->
+    	<div class="content">
+    		<div class="title">06 史诗翅膀</div>
+	    	<div class="article">
+	    		<p>助力英雄守护之路，公测专属翅膀礼包，购买礼包可获得【荣誉、纯洁、权势】三种翅膀中的一对，翅膀为史诗品质及以上</p>
+	    		<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/chibang01_a61c87d.jpg" alt="">
+	    		<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/chibang02_3b03c6f.jpg" alt="">
+	    	</div>
+    	</div>
+    	
+    	<!--豪礼7-->
+    	<div class="content">
+    		<div class="title">07 限定时装</div>
+    		<div class="article">
+    			<p>国服限定龙腾时装，购买相应礼包可获得中国版独有的史诗品质龙腾时装一套（共4件）</p>
+    			<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/picture-1_1700348.png" alt="">
+    			<p>新手7日内，累计充值一定额度，还有永恒品质龙腾时装一套（4件），专属鎏金版外观</p>
+    			<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/picture-2_1a20029.png" alt="">
+    		</div>
+    	</div>
+    	
+    	<!--豪礼8-->
+    	<div class="content">
+    		<div class="title">08 珍稀披风</div>
+    		<div class="article">
+    			<p>独有披风礼包，购买礼包可获得【荣誉、纯洁、权势】三种披风中的一件，披风为史诗品质及以上。</p>
+    			<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/pifeng_06006f2.png" alt="" width="495px">
+    		</div>
+    	</div>
+    	
+    	<!--豪礼9-->
+    	<div class="content">
+    		<div class="title">09 永久承诺</div>
+	    	<div class="article">
+	    		<p>购买永久卡，即可每天领取奖励：冒险点*60  、钻石*100</p>
+	    		<p>还有钻石月卡和冒险点月卡可供玩家选购~~ </p>
+	    		<p>购买钻石月卡，连续30天，每日可领取100钻石；</p>
+	    		<p>购买冒险点月卡，连续30天，每日可领取120冒险点。</p>
+	    	</div>
+    	</div>
+    	
+    	<!--豪礼10-->
+    	<div class="content">
+    		<div class="title">10 官微大礼</div>
+	    	<div class="article">
+	    		<p class="center">扫描关注官方公众号，更多福利惊喜！</p>
+	    		<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/qrcode_577040c.jpg" alt="" class="qr">
+	    	</div>
+    	</div>
+	</div>
+</div>
+	<!--[if lt IE 9]>
+  <div id="ltie9"></div>
+  <![endif]-->
+
+<div id="mask"></div>
+
+<!--预约弹窗-->
+<div class="pop-dialog" id="Jyuyue">
+    <a href="javascript:;" class="dialog-close"></a>
+    <div class="dialog-con">
+    	<div class="content">
+    		<!--<div class="sys">
+    			<span>选择手机系统：</span>
+		    	<a href="javascript:void(0);" data-os="ios" class="cur">苹果</a>
+		    	<a href="javascript:void(0);" data-os="android" class="android">安卓</a>
+		    </div>-->
+		    <form class="yuyueForm">
+	    		<input type="text" name="phone" id="phone" class="js-num" placeholder="请输入你的手机号" maxlength="11">
+		    	<div id="authcode" class="clearfix">
+		    		<input type="text" name="authcode" class="js-num" placeholder="输入验证码" maxlength="3">
+		    		<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/authcode_bd42b11.jpg" alt="">
+		    	</div>
+		    	<a href="javascript:void(0);" class="btn-yuyue">立即提交</a>
+		    </form>
+    	</div>
+    	<p>《HIT：我守护的一切》公测官方专属预约，关注微信公众号：hitwshdyq  签到拿百元大奖！</p>
+	</div>
+</div>
+
+<div class="pop-dialog" id="JSuccess">
+		<a href="javascript:;" class="dialog-close"></a>
+		<div class="dialog-con">
+    		<p class="tit">恭喜预约成功</p>
+				<p>《HIT：我守护的一切》敬请您期待正式公测！</p>
+				<div class="wx-part">
+					<i></i>
+					<img src="http://res.hit.netease.com/pc/fab/20161024100212/img/qrcode_577040c.jpg" width="150" height="150" alt="hitwshdyq" class="wxCode">
+					<!-- <p>关注游戏微信公众号,还可获得<span>国服终极测试钻石大礼包及更多福利</span></p> -->
+					<p>扫码签到有豪礼，金币、史诗装备、商城道具等你拿!</p>
+				</div>
+    </div>
+</div>
+
+<!--视频弹窗-->
+<div class="pop-video" id="Jvideo">
+    <a href="javascript:;" class="m-close"></a>
+    <div class="m-video-con"></div>
+</div>
+    <!-- jquery mix NIE (最新版本）-->
+    <script charset="UTF-8" src="http://res.nie.netease.com/comm/js/jquery(mixNIE).1.11.js"></script>
+    <script src="http://res.nie.netease.com/comm/js/nie/ref/jquery.superslide.js"></script>
+    <script src="http://res.hit.netease.com/pc/fab/20161024100212/js/app/idangerous.swiper.min_5b7e281.js"></script>
+    <script src="http://res.hit.netease.com/pc/fab/20161024100212/js/app/idangerous.swiper.progress.min_7043091.js"></script>
+    <!--[if !IE]><!-->
+    <script src="http://res.hit.netease.com/pc/fab/20161024100212/js/lib/ThreeCanvas_30bcfeb.js"></script>
+    <script src="http://res.hit.netease.com/pc/fab/20161024100212/js/lib/Snow_6245401.js"></script>
+    <!--<![endif]-->
+    <script charset="UTF-8" src="http://res.hit.netease.com/pc/fab/20161024100212/js/app/index_0ec2b2f.js"></script>
+	<!--营销点代码-->
+	<script>function rand(e){return Math.floor(Math.random()*e)+1}document.write('<iframe  src="https://gad.netease.com/mmad/point?point_id=12619&s=PhXpfebNwQeG4GcOmSLfAshyR4U%3D&cache='+rand(9999999)+"&pre="+escape(document.referrer)+'" width="0" height="0" style=\'display:none\'></iframe>');</script>
+</body>
+</html>
+<!--This is Git Project From HIT/hit-fab-pc-20161021(4198)-->
+<!--This is Git Project From HIT/hit-gw-pc16v3-20161009(4121)-->

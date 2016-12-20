@@ -1,0 +1,8 @@
+[
+{"img":"images/show1.jpg","showText1":"颜值控必玩的韩国霸榜ARPG","showText2":"《HIT:我守护的一切》是全球首款以虚幻4引擎打造的3D RPG手游，为《天堂2》与《TERA》开发团队的沉淀之作。","i":"305"},
+{"img":"images/show2.jpg","showText1":"《梦幻西游》手游","showText2":"《梦幻西游》手游由梦幻西游金牌团队倾力打造，唯一包揽App Store四榜大满贯的网易史诗级巨作！全新角色巨魔王盖世登场！","i":"371"},
+{"img":"images/show3.jpg","showText1":"《来自星星的你》官方游戏","showText2":"韩国正版授权，店铺经营养成手游《来自星星的你》开启万圣狂欢节活动，获取限定主题套装，珍品阁超多惊喜等你邂逅！","i":"266"},
+{"img":"images/show4.jpg","showText1":"《迷雾世界》","showText2":"《迷雾世界》先锋首测今日开启","i":"548"},
+{"img":"images/show5.jpg","showText1":"《HIT：我守护的一切》","showText2":"《HIT：我守护的一切》10月27日平台公测，由《天堂2》和《TERA》原开发团队打造的韩国霸榜ARPG手游。","i":"2108"},
+{"img":"images/show6.jpg","showText1":"《率土之滨》","showText2":"《率土之滨》：全自由沙盘战略，寸土必争的乐趣","i":"561"}
+]
