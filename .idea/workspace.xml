@@ -1,92 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19e56a52-fb2b-4b01-9c24-56362e98975a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/animate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/animate.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css1.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jquery-1.11.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jquery-1.8.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/utils2.0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/auto_combine_3c6fb_dce5444.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/baidutemplate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/globalnews.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/ilike.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/index_8f607b2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/jquery(mixNIE).last.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/topBar.v2.last_4b420c9.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/topBar.v3.last.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/topBar_8de6880.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/(1).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/(2)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/(3).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/(4)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/0b40e09b-e5c2-4cdb-b061-09ccd72e5850" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/0c5524c3-915d-40f1-913e-6e1cea2fba71.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/18455_650383.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/18455_650699.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/18455_651393.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/18455_652313.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/18455_652314.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/18455_652460.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/2015-04-17_571869.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/2015-04-22_573745.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/2015-04-22_574247.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/2015-04-28_577603.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/2015-05-11_583719.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/2015-05-11_583735.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/2015-05-15_586559.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/2015-05-20_587955.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/2015-07-08_612341.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/22475_650383.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/2c3cfb59-1b11-4333-bcd1-6ed730d6388.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/3a75d08e-55a1-424d-986a-b8db7bc7dfd4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/4751e6ee-2253-4924-a6a4-d34174101473.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/5F3BB7FDD27D4B01964F56E1FFBADD53" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/7f2c48e2-093f-4a51-9090-46cee985ac06.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VBPVNULEU.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VBS07Q6ER.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VBSN591BH.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VBSPC9HEO.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VBTTMQ14U.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VBU8LF0SP.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VBUCLVN5P.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VBUPIJBBA.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VBUS2VLL4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VBVGJQP2V.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VBVGLUF4B.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VBVTEQ6GE.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VC0V7UJ25.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VC179QCDC.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VC2VSR9R6.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VC3D0BOB7.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/VC3FA06PT.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/ae6a6cb1-f973-4329-8af7-62e81d469e4d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/boot.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/business.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/cf4cef9d-d13b-40f7-a6e1-0d75519108a0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/click" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/contactus.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/d04e1aaf-8df3-41e5-a89b-41c411ed3934" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/e670d248-03ad-4eac-8339-3b2908dd7802" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/f156fcff-1bba-4c71-ab56-bfc1e0bb4582" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/fab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/home" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/index (1)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/index.html.xltd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/index.html.xltd.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/legal.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/overview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/redirect.xltd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/redirect.xltd.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/总/文档任务组_20161102_2317/regInitialized" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/网易游戏.html" afterPath="$PROJECT_DIR$/网易游戏.html" />
-    </list>
+    <list default="true" id="19e56a52-fb2b-4b01-9c24-56362e98975a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -106,7 +21,7 @@
       <file leaf-file-name="网易游戏.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/网易游戏.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5173">
+            <state relative-caret-position="7566">
               <caret line="715" column="6" lean-forward="true" selection-start-line="715" selection-start-column="6" selection-end-line="715" selection-end-column="6" />
               <folding>
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -114,7 +29,6 @@
                 <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#7;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -285,18 +199,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1482201185034</updated>
-      <workItem from="1482201186762" duration="445000" />
+      <workItem from="1482201186762" duration="1048000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="445000" />
+    <option name="totallyTimeSpent" value="1048000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20644216" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.193265" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -343,7 +257,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/网易游戏.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5173">
+        <state relative-caret-position="7566">
           <caret line="715" column="6" lean-forward="true" selection-start-line="715" selection-start-column="6" selection-end-line="715" selection-end-column="6" />
           <folding>
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -351,7 +265,6 @@
             <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#7;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
