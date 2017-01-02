@@ -478,7 +478,7 @@ html,body.rotateIn{
 #gameLove .gameLover .font2{
     display: block;
     position: relative;
-    width: 269.8px;
+    width: 100%;
     height: 185px;
     top: 370px;
     left: 0;
@@ -493,7 +493,7 @@ html,body.rotateIn{
 #showBottom{
     position: relative;
     width: 96%;
-    margin: 45px 0 45px 45px;
+    margin: 45px auto;
     height: 500px;
 }
 #showBottom .showTitleTop{

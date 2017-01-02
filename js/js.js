@@ -366,7 +366,6 @@ argee(i3);
         };
         xhr.send(null);
     })();
-    console.log(data6);
     ~(function bindData(){
         if(window.data6){
             var str1="",str2="";
