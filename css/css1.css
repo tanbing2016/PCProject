@@ -376,10 +376,10 @@
 }
 .show1 .showClose{
     z-index: 10;
-    width: 400px;
-    height: 176px;
-    position: relative;
-    top: -356px;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: -320px;
     background: #cf1132;
     opacity: 0;
     -webkit-transition: all .3s linear;
@@ -390,7 +390,7 @@
 }
 .show1 .showA:hover .showClose{
     opacity: 0.6;
-    top: -180px;
+    top: -160px;
 }
 .show1 .showText1{
     font-size: 20px;
