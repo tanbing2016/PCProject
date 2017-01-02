@@ -14,9 +14,14 @@ html,body.rotateIn{
     height: 100px;
     margin: 0 auto;
     position: relative;
-    padding: 0 10px;
     -webkit-user-select: none;
     z-index: 1001;
+}
+#head .topInner{
+    width: 1260px;
+    height: 100px;
+    margin: 0 auto;
+    position: relative;
 }
 #head #topBox{
     height: 100px;
@@ -83,7 +88,7 @@ html,body.rotateIn{
     z-index: 1000;
 }
 #head #topNavOpen{
-    background: #282b2d;
+    background:rgba(0,0,0,0.8);
     width: 100%;
     position: absolute;
     top: -600px;
@@ -119,7 +124,7 @@ html,body.rotateIn{
 }
 .n{
     position: relative;
-    right: -1024px;
+    right: -920px;
     background-position: -56px -34px;
     top: -2px;
 }
@@ -132,22 +137,24 @@ html,body.rotateIn{
     font-size: 15px;
 }
 #banner{
-    width: 1349px;
-    height: 820px;
     position: relative;
     overflow: hidden;
 }
+#banner #bannerInner{
+    width: 100%;
+    height: 100%;
+}
 #banner #bannerInner div{
-    width: 1349px;
-    height: 820px;
+    width: 100%;
+    height: 100%;
     position: absolute;
     margin: 0 auto;
     opacity: 0;
     z-index: 0;
+    background-position: center top;
 }
 #banner #bannerInner div img{
     left: -251px;
-    position: absolute;
     display: none;
 }
 #banner #bannerInner div h2{
@@ -227,22 +234,25 @@ html,body.rotateIn{
     cursor: pointer;
 }
 #bg{
-    width: 1349px;
+    width: 100%;
     height: 200px;
     background: url("../images/bg.jpg")no-repeat;
 }
 #conBox{
     width: 1260px;
     height: 320px;
-    padding:0 45px;
+    margin: 0 auto;
     top: -120px;
     position: relative;
     z-index: 1000;
-    float: left;
+}
+#conBox #conBox1,#conBox #conBox2{
+
 }
 #conBox #conBox1{
     width: 790px;
     position: absolute;
+    left: 0;
     height: 100%;
     background: #282b2d;
 }
@@ -252,8 +262,7 @@ html,body.rotateIn{
     position: absolute;
     background: #282b2d;
     padding:40px 40px 0;
-    right: 0;
-    left: 835px;
+    left: 790px;
 }
 #conBox #conBox1 #innerBox1{
     width: 150px;
@@ -281,231 +290,6 @@ html,body.rotateIn{
     display: block;
     margin: 15px auto;
 }
-
-
-/*
-#conBox #conBox1 .innerBox2{
-    width: 640px;
-    position: relative;
-    height: 100%;
-    float: left;
-    overflow: hidden;
-    left: 150px;
-}
-#conBox #conBox1 .innerBox2 .inBox1 .jk{
-    width: 50%;
-    height: 100%;
-    float: left;
-    position: relative;
-    background: #e2e6e9;
-    display: block;
-}
-#conBox #conBox1 .innerBox2 .inBox1 .jk:hover .bg-bottom{
-    bottom: 0;
-}
-#conBox #conBox1 .innerBox2 .bg-top{
-    top: 0;
-}
-#conBox #conBox1 .innerBox2 .inBox1 .jk:hover div{
-    background-position: 60% 50%;
-    background-position: 40% 50% \9;
-    *background-position: 40% 50%
-}
-#conBox #conBox1 .innerBox2 .inBox1 .jk:hover p{
-    background: 0 0;
-    -webkit-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    transition: all .3s linear
-}
-#conBox #conBox1 .innerBox2 .inBox1 .jk:hover .txt1{
-    top: -40px;
-}
-#conBox #conBox1 .innerBox2 .inBox1 .jk:hover .txt2,#conBox #conBox1 .innerBox2 .inBox1 .jk:hover .daySelf{
-    bottom: 40px;
-    color: #fff
-}
-#conBox #conBox1 .innerBox2 .inBox1 .jk:hover .daySelf{
-    height: 50%;
-}
-#conBox #conBox1 .innerBox2 .inBox1 .jk:hover .innerJk{
-    background: 0 0;
-    background: rgba(0, 0, 0, 0);
-}
-#conBox #conBox1 .innerBox2 .inBox1 .jk:hover .daySelf span{
-    color: #fff;
-}
-#conBox #conBox1 .innerBox2 .inBox1 .jk .innerJk{
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    left: 0;
-    top: 0;
-    background: rgba(0, 0, 0, .5);
-    display: block;
-    color: #c6c6c6;
-    text-decoration: none;
-    -webkit-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    transition: all .3s linear
-}
-#conBox #conBox1 .innerBox2 .inBox1 .jk-btn{
-    width: 100%;
-    height: 100%;
-    background-position: 40% 50%;
-    -webkit-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    transition: all .3s linear
-}
-#conBox #conBox1 .innerBox2 .inBox1 .jk-btn img{
-    width: 100%;
-    height: 100%;
-}
-#conBox #conBox1 .innerBox2 .txt1{
-    position: relative;
-    top: 0;
-    font-size: 20px;
-    line-height: 35px;
-    min-height: 50px;
-    font-weight: 700;
-    text-align: center;
-    padding-top: 60px;
-    padding-bottom: 30px;
-    display: block;
-    color: #fff;
-    list-style: none;
-    -webkit-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    transition: all .3s linear
-}
-#conBox #conBox1 .innerBox2 .txt2{
-    z-index: 1100;
-}
-#conBox #conBox1 .innerBox2 .txt2,#conBox #conBox1 .innerBox2 .daySelf{
-    position: absolute;
-    font-size: 14px;
-    line-height: 28px;
-    width: 100%;
-    left: 50%;
-    display: block;
-    bottom: 0px;
-    -webkit-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    transition: all .3s linear
-}
-#conBox #conBox1 .innerBox2 .daySelf{
-    display: block;
-    background: #cf1132;
-    width:100%;
-    height: 0;
-    position: absolute;
-    left: 115px;
-    bottom: 0;
-    -webkit-transition: all .2s ease-out;
-}
-/*
-#conBox #conBox1 .innerBox2 .daySelf span{
-    font-size: 28px;
-    color: #cf1132;
-    font-weight: 700;
-    -webkit-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    transition: all .3s linear
-}
-#conBox #conBox1 .innerBox2 #jk2 div{
-    width: 100%;
-    height: 100%;
-    background: url("images/jk2.jpg")no-repeat;
-    background-position: 40% 50%;
-    -webkit-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    transition: all .3s linear;
-}
-#conBox #conBox1 .innerBox2 #jk2 div:hover,#conBox #conBox1 .innerBox2 #jk1 div:hover{
-    background-position: -40px 0;
-}
-#conBox #conBox1 .innerBox2 .bg-bottom{
-    position: absolute;
-    left: 0;
-    bottom: -120px;
-    width: 100%;
-    height: 120px;
-    background: #cf1132;
-    opacity: .9;
-    filter: alpha(opacity=90);
-    z-index: 1100;
-}
-#conBox #conBox1 .innerBox2 .bg-top{
-    position: absolute;
-    left: 0;
-    top: -60px;
-    width: 100%;
-    height: 60px;
-    background: url("images/bg-top.png") repeat-x;
-    z-index: 1100;
-}
-#conBox #conBox1 .innerBox2 .txt1{
-    position: relative;
-    top: 0;
-    font-size: 20px;
-    line-height: 35px;
-    min-height: 50px;
-    font-weight: 700;
-    text-align: center;
-    padding-top: 60px;
-    padding-bottom: 30px;
-    display: block;
-    color: #fff;
-    -webkit-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    transition: all .3s linear
-}
-#conBox #conBox1 .innerBox2 .txt2,#conBox #conBox1 .innerBox2 .daySelf{
-    position: absolute;
-    font-size: 14px;
-    line-height: 28px;
-    text-align: center;
-    width: 230px;
-    left: 50%;
-    margin-left: -115px;
-    display: block;
-    color: #fff;
-    bottom: 110px;
-    -webkit-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    transition: all .3s linear
-}
-#conBox #conBox1 .innerBox2 .daySelf{
-    display: none;
-}
-#conBox #conBox1 .innerBox2 .daySelf span{
-    font-size: 28px;
-    color: #cf1132;
-    font-weight: 700;
-    -webkit-transition: all .3s linear;
-    -moz-transition: all .3s linear;
-    -ms-transition: all .3s linear;
-    -o-transition: all .3s linear;
-    transition: all .3s linear
-}
-*/
 #topNavOpen .computer,#topNavOpen .iphone{
     float: left;
 }
@@ -514,12 +298,17 @@ html,body.rotateIn{
     height: 492px;
 }
 #topNavOpen .iphone{
-    width: 740px;
+    width: 783px;
     height: 769px;
 }
 #topNavOpen  .gameTitle{
-    padding: 25px 0;
-
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 17px 0 17px 40px;
+    background: rgba(255,255,255,0.1);
 }
 #topNavOpen  .gameTitle em{
     border-left: 4px #dd1136 solid;
@@ -534,8 +323,6 @@ html,body.rotateIn{
 .gameBox1{
     width: 272px;
     padding-left: 40px;
-    border-left: 1px solid #ccc;
-    border-right: 1px solid #ccc;
 }
 #topNavOpen  h2{
     width: 100%;
@@ -575,14 +362,14 @@ html,body.rotateIn{
 .gameBox2{
     width: 120px;
     padding-left: 42px;
-    border-right: 1px solid #ccc;
+    border-left: 1px solid rgba(255,255,255,0.1);
 }
 .gameBox3{
     position: relative;
     width: 131px;
     _height: 482px;
     padding-left: 30px;
-    border-right: 1px solid #ccc;
+    border-left: 1px solid rgba(255,255,255,0.1);
 }
 .gameBox3,.gameBox4{
     float: left;
@@ -590,7 +377,7 @@ html,body.rotateIn{
 .gameBox4{
     width: 545px;
     padding-left: 32px;
-    border-right: 1px solid #ccc;
+    border-left: 1px solid rgba(255,255,255,0.1);
 }
 #topNavOpen .gameBox4 em.n{
     right: -2px;

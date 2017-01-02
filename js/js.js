@@ -10,7 +10,17 @@ var focusList = document.getElementById("focusList");
 
 var left = document.getElementById("left");
 var right = document.getElementById("right");
-
+var width=utils.css(banner,"width");
+~(function(){
+    function fn(){
+        var winW=document.documentElement.clientWidth||document.body.clientWidth;
+        var tarW=winW,
+            tarH=winW*0.6;
+        $("#banner").css({"width":tarW,"height":tarH});
+    }
+    fn();
+    $(window).on("resize",fn);
+})();
 //刷新页面
 ~(function () {
     var topBox = document.getElementById("topBox");
@@ -64,7 +74,7 @@ topNavClose.onclick=topNav.onclick = function () {
             var strImg = "", strLi = "";
             for (var i = 0; i < data.length; i++) {
                 var curImg = data[i];
-                strImg += "<div><img src='' realSrc='" + curImg.img + "'><h2>" + curImg.h2 + "</h2><h3>" + curImg.h3 + "</h3><p>" + curImg.p + "</p><i></i></div>";
+                strImg += "<div><img realSrc='" + curImg.img + "'><h2>" + curImg.h2 + "</h2><h3>" + curImg.h3 + "</h3><p>" + curImg.p + "</p><i></i></div>";
                 strLi += i === 0 ? "<li class='select'></li>" : "<li></li>";
             }
             bannerInner.innerHTML = strImg;
@@ -81,7 +91,7 @@ topNavClose.onclick=topNav.onclick = function () {
             tempImg.src = curImg.getAttribute("realSrc");
             tempImg.index = i;
             tempImg.onload = function () {
-                imgs[this.index].src = this.src;
+                imgs[this.index].parentNode.style.backgroundImage = "url("+this.src+")";
                 if (this.index === 0) {
                     utils.css(imgs[this.index].parentNode, "zIndex", 1);
                     animate(imgs[this.index].parentNode, {opacity: 1}, 500);

@@ -286,13 +286,13 @@
 }
 #show{
     position: relative;
-    width: 1260px;
+    width: 96%;
     margin: 45px 0 45px 45px;
-    height: 500px;
+    height: 420px;
 }
 #show .showTitleTop{
     position: absolute;
-    width: 1260px;
+    width:100%;
     height: 140px;
     top: -45px;
     z-index: 1100;
@@ -300,6 +300,11 @@
 }
 #show .showTitleTop #showTitle{
     position: absolute;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
     top: 70px;
     left: 0;
     height: 20px;
@@ -307,7 +312,7 @@
     font-size: 20px;
     border-left: 4px #cf1132 solid;
     padding: 0 20px;
-    width: 1200px;
+    width: 96%;
 }
 #show #showTitle a{
     float: right;
@@ -327,29 +332,29 @@
      position: absolute;
      top: 95px;
      width:100%;
-     height: 480px;
+     height: 80%;
  }
 .innerShow2{
     z-index:100;
     position: absolute;
     top: 95px;
     width:100%;
-    height: 480px;
+    height: 80%;
 }
 .innerShow .show1:nth-child(2) {
-    margin: 0 20px;
+    margin: 0 1%;
 }
 .innerShow2 .show1:nth-child(2) {
-    margin: 0 20px;
+    margin: 0 1%;
 }
 .innerShow3 .show1:nth-child(2) {
-    margin: 0 20px;
+    margin: 0 1%;
 }
 .show1{
     overflow: hidden;
     z-index: 0;
-    width: 400px;
-    height: 320px;
+    width: 32%;
+    height: 100%;
     float: left;
     position: relative;
     border: 1px solid #ccc;
@@ -456,20 +461,20 @@
     position: absolute;
     top: 95px;
     width: 100%;
-    height: 480px;
+    height: 100%;
 }
 .innerShow3 {
     z-index: 10;
     position: absolute;
     top: 95px;
     width: 100%;
-    height: 480px;
+    height: 100%;
 }
 .show2{
     display: none;
     z-index: 10;
     width: 400px;
-    height: 320px;
+    height: 100%;
     float: left;
     position: relative;
     border: 1px solid #ccc;
@@ -638,12 +643,6 @@
     font-style: normal;
     display: block;
 }
-.gameBox1{
-    width: 272px;
-    padding-left: 40px;
-    border-left: 1px solid #ccc;
-    border-right: 1px solid #ccc;
-}
 .gameList h2{
     width: 100%;
     padding: 25px 0;
@@ -674,26 +673,6 @@
 }
 .gameBox1,.gameBox2{
     float: left;
-}
-.gameBox2{
-    width: 120px;
-    padding-left: 42px;
-    border-right: 1px solid #ccc;
-}
-.gameBox3{
-    position: relative;
-    width: 131px;
-    _height: 482px;
-    padding-left: 30px;
-    border-right: 1px solid #ccc;
-}
-.gameBox3,.gameBox4{
-    float: left;
-}
-.gameBox4{
-    width: 545px;
-    padding-left: 32px;
-    border-right: 1px solid #ccc;
 }
 .gameBox4 em.n{
     right: -2px;
