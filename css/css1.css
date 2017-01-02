@@ -288,7 +288,7 @@
     position: relative;
     width: 96%;
     margin: 45px 0 45px 45px;
-    height: 420px;
+    height: 500px;
 }
 #show .showTitleTop{
     position: absolute;
@@ -354,7 +354,7 @@
     overflow: hidden;
     z-index: 0;
     width: 32%;
-    height: 100%;
+    height: 80%;
     float: left;
     position: relative;
     border: 1px solid #ccc;
@@ -363,7 +363,7 @@
 .show1 .showA{
     display: block;
     width: 100%;
-    height: 176px;
+    height: 50%;
 }
 .show1 .showA img{
     width: 100%;
@@ -461,14 +461,14 @@
     position: absolute;
     top: 95px;
     width: 100%;
-    height: 100%;
+    height: 65%;
 }
 .innerShow3 {
     z-index: 10;
     position: absolute;
     top: 95px;
     width: 100%;
-    height: 100%;
+    height: 65%;
 }
 .show2{
     display: none;
@@ -486,7 +486,7 @@
 .show2 .showA{
     display: block;
     width: 100%;
-    height: 176px;
+    height: 50%;
     overflow: hidden;
 }
 .show2 .showClose{
@@ -597,25 +597,21 @@
     animation-duration: 1s;
 }
 #gameWrap{
-    background-color: #fff;
     min-height: 425px;
     position: relative;
-    width: 1260px;
+    width: 100%;
     height: 100%;
     overflow: hidden;
 }
 .gameList{
-    padding: 0 0 40px 40px;
-    border-left: 1px #eee solid;
-    border-right: 1px #eee solid;
+    margin: 0 auto;
     position: relative;
     width: 1260px;
-    margin: 0 auto;
     height: 100%;
     overflow: hidden;
 }
 .gameList a:hover{
-    font-weight: 700;
+    font-weight: bold;
 }
 .gameList .computer,.gameList .iphone{
     float: left;
@@ -625,7 +621,7 @@
     height: 492px;
 }
 .gameList .iphone{
-    width: 740px;
+    width: 783px;
     height: 769px;
 }
 .gameList .gameTitle{
@@ -687,4 +683,31 @@
 .showA{
     overflow: hidden;
 }
-.innerShow3 {}
+.gameBoxA, .gameBoxB {
+    float: left;
+}
+.gameBoxA {
+    width: 272px;
+    padding-left: 40px;
+    border-left: 1px solid #eee;
+}
+.gameBoxB {
+    width: 120px;
+    padding-left: 42px;
+    border-left: 1px solid #eee;
+}
+.gameBoxC, .gameBoxD {
+    float: left;
+}
+.gameBoxC {
+    position: relative;
+    width: 130px;
+    padding-left: 30px;
+    border-left: 1px solid #eee;
+}
+.gameBoxD {
+    width: 588px;
+    padding-left: 32px;
+    border-left: 1px solid #eee;
+    border-right: 1px solid #eee;
+}
